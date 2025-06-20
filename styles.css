@@ -18,7 +18,7 @@ p{
     width: 500px;
     height: 300px;   
 }
-.absolute-text{
+h1.absolute-text{
     position: absolute;
     top: 150px;
     left: 50px;
