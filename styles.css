@@ -39,17 +39,17 @@ p{
     position: absolute;
     background-color:rgb(255, 255, 255);
     color: rgb(169, 22, 198);
-    padding: 10px, 20px;
+    padding: 100px, 300px;
     text-decoration: none;
-    border-radius: 8px;
-    font-size: 16px;
-    transition: background-color 0.3s ease;
+    border-radius: 20px;
+    font-size: 24px;
+    transition: background-color 1.0s ease;
 }
 .bt1 {
-    bottom: 50px;
-    left: 50px;
+    bottom: 400px;
+    left: 400px;
 }
 .bt2 {
-    bottom: 50px;
-    right: 50px;
+    bottom: 400px;
+    right: 400px;
 }
