@@ -13,3 +13,16 @@ p{
     line-height: 1.5;
     margin-bottom: 15px;    
 }
+.title{
+    position: relative;
+    width: 500px;
+    height: 300px;   
+}
+.absolute-text{
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    color:aliceblue;
+    font-size: 36px;
+    text-shadow:black;
+}
